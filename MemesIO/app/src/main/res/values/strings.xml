@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Memely</string>
+    <string name="headline">Find the <font color="#860DFF">perfect</font> memes for <font color="#860DFF">your</font> video</string>
+    <string name="find_more">Find More</string>
+    <string name="get_more">Get more</string>
+</resources>

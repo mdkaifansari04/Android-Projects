@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/toolbarMenu"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#5FAFBD"
+    android:minHeight="?attr/actionBarSize"
+    android:theme="@style/CardView"
+    app:menu="@menu/toolbar_menu"
+    app:popupTheme="@style/CardView.Light"
+    tools:ignore="ExtraText,MissingConstraints"
+    tools:menu="@menu/toolbar_menu" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:text="WhatsApp"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText" />
+</androidx.appcompat.widget.Toolbar>

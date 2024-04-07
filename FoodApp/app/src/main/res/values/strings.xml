@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Food App</string>
+    <string name="todo">TODO</string>
+    <string name="register">Register</string>
+    <string name="cafe_house">Cafe House</string>
+    <string name="login">Login</string>
+    <string name="_2024_cafe_house_all_rights_reserved">© 2024 Cafe House. All rights reserved</string>
+    <string name="todo2">TODO</string>
+    <string name="facebook">Facebook</string>
+    <string name="or">or</string>
+    <string name="already_have_an_account_login">Already have an account ? Login</string>
+</resources>

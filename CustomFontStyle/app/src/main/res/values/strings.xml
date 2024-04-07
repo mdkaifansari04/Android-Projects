@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">CustomFontStyle</string>
+
+    <string name="english" translatable="false">Hello World</string>
+    <string name="urdu" translatable="false">ہیلو ورلڈ</string>
+    <string name="hindi" translatable="false">हैलो वर्ल्ड</string>
+</resources>

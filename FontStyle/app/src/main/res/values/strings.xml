@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FontStyle</string>
+
+
+    <string name="hindi">हैलो वर्ल्ड</string>
+    <string name="urdu">ہیلو ورلڈ</string>
+    <string name="hello_world">Hello World</string>
+</resources>
